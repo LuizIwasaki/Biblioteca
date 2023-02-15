@@ -1,2 +1,2 @@
 # Biblioteca
-Projeto biblioteca 2 Termo AP2C2 
+Gerenciamento de sistema bliotecário.
